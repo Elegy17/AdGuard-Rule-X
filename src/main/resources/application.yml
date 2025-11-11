@@ -30,11 +30,11 @@ application:
       #自用添加↓
       - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt' # GOODBYEADS
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' # 乘风规则
-      - 'https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt' # 茯苓的广告规则
-      - 'https://gh-proxy.com/raw.githubusercontent.com/qq5460168/666/master/rules.txt' # 去广告规则，酷安反馈反馈
-      - 'https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts' # 下个ID见
+      #- 'https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt' # 茯苓的广告规则
+      #- 'https://gh-proxy.com/raw.githubusercontent.com/qq5460168/666/master/rules.txt' # 去广告规则，酷安反馈反馈
+      #- 'https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts' # 下个ID见
       - 'https://github-hosts.tinsfox.com/hosts' # Github加速
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt' # AdGuard DNS filter
+      #- 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt' # AdGuard DNS filter
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
