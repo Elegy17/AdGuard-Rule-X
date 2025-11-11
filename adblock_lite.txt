@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-11-11 12:11:23(GMT+8) 
-! Total count: 31170
+! ! Version: 2025-11-11 20:49:00(GMT+8) 
+! Total count: 31173
  
 ###ADtip
 ###Ad_windows
@@ -18690,6 +18690,7 @@ zzzyk.com###Tinfo
 ||blueidea.com/js/ajs.js
 ||blvhq.com^
 ||blz105.com/player/ad.html
+||blzgeuuz.icu^
 ||bm.h576.com^
 ||bmasamd.top^
 ||bmelkellv.com^
@@ -22467,6 +22468,7 @@ zzzyk.com###Tinfo
 ||hwplypbn.icu^
 ||hwpvhilkuth.com^
 ||hwtadf.icu^
+||hwwzqi.cn^
 ||hwxprd.icu^
 ||hxbt.alading123.com^
 ||hxdwsfg.cn^
@@ -24700,6 +24702,7 @@ zzzyk.com###Tinfo
 ||mdamcsx.top^
 ||mddcloud.*/oweApi/ad/
 ||mdfsbn.com^$third-party
+||mdhotidv.com^
 ||mdhxyhl.cn^
 ||mdkjefq.cn^
 ||mdqhyxe.cn^
