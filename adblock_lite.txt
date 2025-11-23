@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-11-22 20:40:46(GMT+8) 
-! Total count: 31339
+! ! Version: 2025-11-23 10:03:37(GMT+8) 
+! Total count: 31350
  
 ###ADtip
 ###Ad_windows
@@ -1621,6 +1621,7 @@ $websocket,domain=wap.yushuwu.cloud
 .club/ads/
 .club/adv/
 .cn/*-*-*.xc$script,third-party
+.cn/*/o*.js?t=*$domain=12ju.com
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
 .cn/Ao390sW2.js
@@ -1632,6 +1633,8 @@ $websocket,domain=wap.yushuwu.cloud
 .cn/bid?url=*$third-party
 .cn/by389.js$script,third-party
 .cn/cS389.js
+.cn/d/o*.js?t=*
+.cn/e/o*.js?t=*
 .cn/gg/$script,third-party
 .cn/hL389.js$script,third-party
 .cn/js/ads/
@@ -9672,6 +9675,7 @@ hcbbs.com###portal_block_2652
 hcbbs.com###portal_block_3441
 hcbbs.com##.a_cn_pb
 hcbbs.com##.pcbanner
+hcbbs.com##.plc > .pct + :last-child
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 hcbbs.com##a[href*="&adid="]
 hcbbs.com##table[width="100%"][bordercolor="#CCCCCC"]
@@ -14963,7 +14967,6 @@ www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.3ppp.net##DIV.bottom_fixed
 www.67tool.com##.footer-banner
-www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 www.apkmirror.com##.ains.ains-has-label
 www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
 www.dbbqb.com##.MuiPaper-root
@@ -17135,6 +17138,7 @@ zzzyk.com###Tinfo
 ||9o29nhxgp.com^
 ||9odes.ltd^
 ||9oru1vh0w.com^
+||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9swovqnp52.com^
 ||9tata.com/js/Rand.js
@@ -20182,6 +20186,7 @@ zzzyk.com###Tinfo
 ||dismantlepenantiterrorist.com^
 ||display.itmemo.cn^
 ||displink.com^$third-party
+||disruptive49.com^
 ||ditorialproce.biz^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
@@ -21177,6 +21182,7 @@ zzzyk.com###Tinfo
 ||fkjdiefz.icu^
 ||fktaxk.top^
 ||fkxs.net/tops/
+||fl0hg5wlr.com^
 ||fl6n.com/adtop/
 ||flagshipism.com^
 ||flash.banners-service.info^
@@ -24767,6 +24773,7 @@ zzzyk.com###Tinfo
 ||matwbp.iask.sina.com.cn^
 ||maximpetus.com^
 ||maxthonimg.com/v6/festival/
+||mazincike.com^
 ||mb.gulongbbs.com^
 ||mbaedurr.com^
 ||mbalib.com/common/a_mbalib/
@@ -25410,6 +25417,7 @@ zzzyk.com###Tinfo
 ||nftjjw.com^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
+||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
 ||ng8f.top^
@@ -25633,6 +25641,7 @@ zzzyk.com###Tinfo
 ||nyjelh.icu^
 ||nyokruzoir.com^
 ||nyvgbt.xyz^
+||nyzrbx.icu^
 ||nz04com.com/aabdd/
 ||nzeikrar.com^
 ||nzl09250oa.com^
@@ -26828,6 +26837,7 @@ zzzyk.com###Tinfo
 ||qushucheng.com/public/
 ||quspga.xyz^
 ||qutyan8848.com^
+||quudraidfg.com^
 ||quyr.cn^
 ||quzmtpxw.xyz^
 ||qvcnmty.top^
@@ -30121,6 +30131,7 @@ zzzyk.com###Tinfo
 ||xjx11211ts.com^
 ||xjx11220ts.com^
 ||xjx11221ts.com^
+||xjx11230ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
