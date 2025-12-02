@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-01 20:51:40(GMT+8) 
-! Total count: 31481
+! ! Version: 2025-12-02 09:53:29(GMT+8) 
+! Total count: 31487
  
 ###ADtip
 ###Ad_windows
@@ -18580,6 +18580,7 @@ zzzyk.com###Tinfo
 ||beatricecandanceyd.com^
 ||beatricecathy.com^
 ||beatricenba.com^
+||beautiful45.com^
 ||bebx.cn^
 ||beclsbx.icu^
 ||becode.xiao84.com^
@@ -23243,6 +23244,7 @@ zzzyk.com###Tinfo
 ||j2jtq0hpb.com^
 ||j33xvvanl.com^
 ||j4mxrs21gh.com^
+||j4s12kfavg.com^
 ||j694fx3bp.com^
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
@@ -25570,6 +25572,7 @@ zzzyk.com###Tinfo
 ||niugupan.com/js/tj.js
 ||niuk11291gi.com^
 ||niuk12011gi.com^
+||niuk12020gi.com^
 ||niulai0323166.space^
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,third-party
@@ -28121,6 +28124,7 @@ zzzyk.com###Tinfo
 ||suibiankan.co/Runtime/Js/
 ||suibianlu.com/zb_users/ad/
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
+||suitcase890.top^
 ||suiyishop.cn/zhuangxiu_
 ||summerwm1.com^
 ||sump4.cc/js/wcount.js
@@ -29259,6 +29263,7 @@ zzzyk.com###Tinfo
 ||vbc08200op.com^
 ||vbc08201op.com^
 ||vbdbmqzu.com^
+||vbgyniffuy.com^
 ||vbiakpu.icu^
 ||vbjm.cn^
 ||vbjzdl.top^
@@ -30611,6 +30616,7 @@ zzzyk.com###Tinfo
 ||yg006.com/attachment/xjdb.jpg
 ||ygg1e0gmc.com^
 ||yghalathio.com^
+||yghonola.com^
 ||ygshu.com/js/h
 ||ygwdai.cn^
 ||ygxgk.cn^
