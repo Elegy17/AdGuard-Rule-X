@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-04 20:52:42(GMT+8) 
-! Total count: 31525
+! ! Version: 2025-12-05 09:54:33(GMT+8) 
+! Total count: 31530
  
 ###ADtip
 ###Ad_windows
@@ -13743,6 +13743,7 @@ sogou.com##A[data-log*="PicAd"]
 sogou.com##div[class^="news-top-banner"]
 sogou.com#?#div[class^="right-feedback"]:has(>.list-step-title:contains(网游))
 sohu.com###apkBanner
+sohu.com###bottomBanner
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com###hotpicnew
 sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
@@ -16210,6 +16211,7 @@ zzzyk.com###Tinfo
 ||29spp.com/js/tj.js
 ||2axpwa4.xyz^
 ||2biqu.com/static/*/*.js
+||2bqlkznz.xyz^
 ||2btu.com/gg.jpg
 ||2ccc.com/images/WebXone.gif
 ||2ccc.com/images/aobi.gif
@@ -20185,6 +20187,7 @@ zzzyk.com###Tinfo
 ||di2y21.top/jian/jiansshu.js
 ||di2y21.top^
 ||diagnosis.ad.xiaomi.com^
+||dialogue32.com^
 ||diamiu.com/wp-content/uploads/1200-200.
 ||dian500.com^$third-party
 ||dianhanjiw.com^
@@ -25232,6 +25235,7 @@ zzzyk.com###Tinfo
 ||msstatic.com/huya/main3/widget/roomGg
 ||msstatic.net/main3/common/assets/template/head/ad.
 ||mstmsbz.com^
+||mt1exxfnf.com^
 ||mt4v4.com^
 ||mtawcy.xyz^
 ||mtfc8.com^
@@ -29261,6 +29265,7 @@ zzzyk.com###Tinfo
 ||v4dwkcv.com/html/click/
 ||v4dwkcv.com^
 ||v4p.fun^
+||v53groc9v.com^
 ||v6jt.cn^
 ||v88yaat.xyz^
 ||v9gfm.xyz^
