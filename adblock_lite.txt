@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-20 09:50:25(GMT+8) 
-! Total count: 32259
+! ! Version: 2025-12-20 20:45:34(GMT+8) 
+! Total count: 32271
  
 ###ADtip
 ###Ad_windows
@@ -15769,6 +15769,7 @@ zzzyk.com###Tinfo
 ||065yuyu.com^
 ||066hjkl.com^
 ||06789.xyz^
+||06cp8ypn8j.com^
 ||06evyxnibl.com^
 ||07073.com/api/getKfList?
 ||07073.com/pc/js/right-ad.
@@ -16059,6 +16060,7 @@ zzzyk.com###Tinfo
 ||17house.com/zt/style/pc/js/zt_
 ||17k.com/jump/uh
 ||17ok.com/focus/3j_right_jdt.shtml
+||17ryi4j3qb.com^
 ||17yy.com/style/ifra_ad/
 ||180.96.27.85^*.htm
 ||18183.com/common/js/side.js
@@ -19989,6 +19991,7 @@ zzzyk.com###Tinfo
 ||cpu.baidu.com/block/wap/
 ||cpu.baidu.com^$third-party
 ||cpucdn.baidu.com^
+||cq2f5kn85c.top^
 ||cqbuchouhua.com^
 ||cqtlimi.cn^
 ||cqudya.icu^
@@ -20846,6 +20849,7 @@ zzzyk.com###Tinfo
 ||dxg*.com/img/A*.js
 ||dxg*.top/img/A*.js
 ||dxg0070.top/img/
+||dxix.cn^
 ||dxlxjvmo.icu^
 ||dxp.baidu.com^
 ||dxqck.com^
@@ -21567,6 +21571,7 @@ zzzyk.com###Tinfo
 ||fmjo.cn^
 ||fmkipgm.icu^
 ||fmlmbf.top^
+||fmnoaqebhe.com^
 ||fmre1.com^
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
@@ -21928,6 +21933,7 @@ zzzyk.com###Tinfo
 ||ggai12190cp.com^
 ||ggai12191cp.com^
 ||ggai12200cp.com^
+||ggai12201cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -23602,6 +23608,7 @@ zzzyk.com###Tinfo
 ||iyf.tv/app/*.js$replace=/this\.shouldSkipAds\|\|/!0||/
 ||iyf.tv/play/$xmlhttprequest
 ||iyfbodn.com^
+||iyhaatedew.com^
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
 ||iyof.cn^
@@ -24492,6 +24499,7 @@ zzzyk.com###Tinfo
 ||kvhee.com^
 ||kvqp.cn^
 ||kvsqa.xyz^
+||kvzscvzk0t.com^
 ||kw17vswzu.com^
 ||kwcmrfb.cn^
 ||kwcnmtd.top^
@@ -27978,6 +27986,7 @@ zzzyk.com###Tinfo
 ||sass.hk/js/ggcn.js
 ||sass.hk/plus/mytag_js.php?aid=
 ||satroki.tech/api/JdUnion
+||sausage34.com^
 ||saviourketonic.com^
 ||sax*.sina.
 ||saxysec.com^
@@ -30896,6 +30905,7 @@ zzzyk.com###Tinfo
 ||xfxvpt.icu^
 ||xfztgxt.com^
 ||xg8mbvu3x8.com^
+||xggdrks.icu^
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgo.com.cn/pv.js
 ||xgzdys.com^
@@ -31331,6 +31341,7 @@ zzzyk.com###Tinfo
 ||yczl5qg8jr.com^
 ||yd.gxdianhua.com^
 ||yd.linjuyihao.com^
+||ydeyivh.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
 ||ydgsvls.cn^
@@ -32148,6 +32159,7 @@ zzzyk.com###Tinfo
 ||zsy10230yok.com^
 ||zsy10231yok.com^
 ||zsy10240yok.com^
+||zsz8xljo8y.top^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
