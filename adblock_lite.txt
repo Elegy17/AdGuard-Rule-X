@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-23 09:57:54(GMT+8) 
-! Total count: 32328
+! ! Version: 2025-12-23 20:52:38(GMT+8) 
+! Total count: 32336
  
 ###ADtip
 ###Ad_windows
@@ -17726,6 +17726,7 @@ zzzyk.com###Tinfo
 ||adtech.yahooinc.com^
 ||adtng.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adtx2.cn^
 ||adunblock.com/code/*.html
 ||adunite.com^$third-party
@@ -21759,6 +21760,7 @@ zzzyk.com###Tinfo
 ||fy14.cn^
 ||fydisk.com/images/showvip.gif
 ||fygel9rtc.com^
+||fz94px.site^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
 ||fzdwtage.icu^
@@ -25359,6 +25361,7 @@ zzzyk.com###Tinfo
 ||mc5e9p8qx.com^
 ||mcahinohez.com^
 ||mcdwfed.cn^
+||mcge.cn^
 ||mckumf5ii4.com^
 ||mclimix.top^
 ||mclseww.top^
@@ -25387,6 +25390,7 @@ zzzyk.com###Tinfo
 ||media.rencontreshard.com^$third-party,script
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||medicine4.top^
+||medproad.com^
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
 ||meenehboq.com^
@@ -27210,6 +27214,7 @@ zzzyk.com###Tinfo
 ||qctcu.com^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
+||qcwx.medproad.com^
 ||qczcxe.cn^
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
@@ -28896,6 +28901,7 @@ zzzyk.com###Tinfo
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
 ||t.atomicfile.cn^
@@ -31325,6 +31331,7 @@ zzzyk.com###Tinfo
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
 ||xzji.com/data/block_js/softShow_
+||xzkumjdqj.com^
 ||xzvhyx.com^
 ||xzxhpcdz.icu^
 ||y.gtimg.cn/music/common//upload/kg_ad^
@@ -31549,6 +31556,7 @@ zzzyk.com###Tinfo
 ||ykotyeo.cn^
 ||yktj.yzz.cn^
 ||ykxwn.com^
+||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||ylghac.icu^
 ||ylznwl.cn^
