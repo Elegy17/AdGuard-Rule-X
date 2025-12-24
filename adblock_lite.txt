@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-23 20:52:38(GMT+8) 
-! Total count: 32336
+! ! Version: 2025-12-24 09:56:23(GMT+8) 
+! Total count: 32353
  
 ###ADtip
 ###Ad_windows
@@ -13831,6 +13831,9 @@ sosimhk.com#$#.a-modal { display: none !important; }
 sosimhk.com#$#.modal-backdrop { display: none !important; }
 sosimhk.com#$#body { overflow: auto !important; padding-right: 0 !important; }
 sou-yun.cn###ads_index_2
+sou-yun.cn#$##adsPanel { display: none !important; }
+sou-yun.cn#$#body { overflow: auto !important; }
+sou-yun.cn#@##adsPanel
 sou.com###ad_wrapper_cpc_conversation-comment-right
 soufun.com##.danmu_inbox
 soundofhope.org###itb_ads_catfish
@@ -15639,10 +15642,12 @@ zn513.cc#?##portal_block_69_content > li:has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 zol.com.cn###Article_Top_Banner
 zol.com.cn###btmLoginLayer
+zol.com.cn###downBoxGaosu
 zol.com.cn###downBoxGaosu + a
 zol.com.cn###iframe_zmall
 zol.com.cn###official_url
 zol.com.cn###relatedProduct
+zol.com.cn###sideDoubao
 zol.com.cn##.down-append-mol__pic
 zol.com.cn##.local-spe-bottom
 zol.com.cn##.pv-mol_ask
@@ -16555,6 +16560,7 @@ zzzyk.com###Tinfo
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
+||4zm6p17ppr.com^
 ||4zn.fun^
 ||5.61.55.143^
 ||5.ccutu.com^
@@ -16770,6 +16776,7 @@ zzzyk.com###Tinfo
 ||5tmobi.cn^$third-party
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
+||5u6ku3n9k.com^
 ||5u8mjz9tx0.com^
 ||5uazcu2o1.com^
 ||5uxmusq.cn^
@@ -20469,6 +20476,7 @@ zzzyk.com###Tinfo
 ||dh8ypn3lq8.com^
 ||dhaaralzz.com^
 ||dhannaq.com^
+||dhduc.com^
 ||dheear.site^
 ||dheilgorsy.com^
 ||dhemixu.com^
@@ -21186,6 +21194,7 @@ zzzyk.com###Tinfo
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
+||entrance79.top^
 ||entrepreneurs46.com^
 ||entry.baidu.com/rp/home?
 ||entry.baidu.com^
@@ -21966,6 +21975,7 @@ zzzyk.com###Tinfo
 ||ggai12220cp.com^
 ||ggai12221cp.com^
 ||ggai12230cp.com^
+||ggai12231cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -26452,6 +26462,7 @@ zzzyk.com###Tinfo
 ||onchilurg.com^
 ||oncinu.com^
 ||ondraits.com^
+||ondrotnw.com^
 ||one.fsylr.com^
 ||one.gongshu168.cn^
 ||one101.xyz/data/images/*.gif
@@ -26606,6 +26617,7 @@ zzzyk.com###Tinfo
 ||oylblokar.com^
 ||oyxp.xyz^
 ||oyysbc.xyz^
+||oyz61nhz8.com^
 ||ozkbdxdu.icu^
 ||oztg6i0ass.com^
 ||p*-ad-sign.byteimg.com^
@@ -26915,6 +26927,7 @@ zzzyk.com###Tinfo
 ||pinlue.com/error/bangolike.js
 ||pinmgm.com^
 ||pinyuege.net/template/pinygm/public/js/
+||pipette22.top^
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
 ||piqtpbxo.icu^
@@ -27635,6 +27648,7 @@ zzzyk.com###Tinfo
 ||rc.ie13.com^
 ||rc7e.top^
 ||rcblfd.xyz^
+||rchqtr.icu^
 ||rcilgeill.com^
 ||rcqmvmq.cn^
 ||rcqqlwb.cn^
@@ -29642,6 +29656,7 @@ zzzyk.com###Tinfo
 ||u26u.com^$popup,third-party
 ||u33011.com^
 ||u346zd.top^
+||u39q45jzoj.com^
 ||u3qrlykp2.com^
 ||u408n6z4f.top^
 ||u40pdqw.com^
@@ -30583,6 +30598,7 @@ zzzyk.com###Tinfo
 ||wn68din.cn^
 ||wn6y.cn^
 ||wn80drk.shop^
+||wnacammull.com^
 ||wnacg.*/data/ds/
 ||wnacg.*/data/game/*/wap.gif
 ||wnacg.com/1sdfdc1/500_60-1.gif
@@ -31812,6 +31828,7 @@ zzzyk.com###Tinfo
 ||z4a.net^$domain=aotu43.com
 ||z4a.net^*/960x
 ||z4v.icu^
+||z60ft9y8lj.com^
 ||z6ro5.xyz^
 ||z8t.icu^
 ||zabdybod*.club^
