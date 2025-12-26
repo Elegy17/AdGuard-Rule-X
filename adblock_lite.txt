@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-25 20:50:15(GMT+8) 
-! Total count: 32382
+! ! Version: 2025-12-26 09:57:15(GMT+8) 
+! Total count: 32393
  
 ###ADtip
 ###Ad_windows
@@ -8408,6 +8408,7 @@ douyu.com##div[id^="sign_p_"]
 douyu.com#?#.SharePanel:has(> .SharePanel-content > .SharePanel-contentTitle:contains(福利))
 douyu.com#?#.bc-wrapper:has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
 douyu.com#?#.wm-general:has(.link[href*=".tmall.com"])
+douyu.com#?#div[class^="body__"] > div[class^="card__"] > span > span[class^="card__"]:has(span[class^="cardTypeLabel"]:contains(广告))
 douyu.com,~wan.douyu.com##a[href*="g.wan.douyu.com"]
 down.ali213.net,patch.ali213.net##.picBg
 downbank.cn##.speed-downlist
@@ -17867,6 +17868,7 @@ zzzyk.com###Tinfo
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
+||ainb12260zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqu222.com/da/
@@ -18269,6 +18271,7 @@ zzzyk.com###Tinfo
 ||app-measurement.com^
 ||app.bugsnag.com^
 ||app.getsentry.com^
+||apparatus49.top^
 ||appc.baidu.com^
 ||appcfg.v.qq.com^
 ||appimg.0575bbs.com^
@@ -20735,6 +20738,7 @@ zzzyk.com###Tinfo
 ||douyin.com/aweme/v1/web/solution/resource/list/*_banner&
 ||douyu.com/japi/sign/web/getinfo
 ||douyu.com/member/gamegift/gameList/
+||douyucdn.cn/adxdsp/
 ||douyucdn.cn/butterfly-java/*?width=1200&height=100&
 ||douyucdn.cn/butterfly-java/*?width=1200&height=120&
 ||douyucdn.cn/butterfly-java/*?width=242&height=489&
@@ -23806,6 +23810,7 @@ zzzyk.com###Tinfo
 ||jfsdiwmnbsk009.top^
 ||jfxefv.icu^
 ||jfyb6.com^
+||jg0y00ciyr.com^
 ||jg1668.com^$third-party
 ||jgapcsi.icu^
 ||jghklz.xyz^
@@ -29362,6 +29367,7 @@ zzzyk.com###Tinfo
 ||toolfk.com/common/zfb.jpg
 ||tools.3g.qq.com^
 ||tooreldretpl.com^
+||toothpick75.com^
 ||top2099.com^
 ||topicimg.1234567.com.cn/product/2021/1/11/b914f8b6-fb61-4c85-834f-863b67c13a45.gif$domain=fund.eastmoney.com
 ||topmba.mobi/ad/
@@ -29528,6 +29534,7 @@ zzzyk.com###Tinfo
 ||tuobeng.net^
 ||tupian888.*.bcebos.com^
 ||tuplzt.xyz^
+||turcailnt.com^
 ||tushwjp.icu^
 ||tusmangas.net/ama/oso.js$script
 ||tutudao.net/js/gg*.js
@@ -30211,6 +30218,7 @@ zzzyk.com###Tinfo
 ||vista.tuwan.com/s.js
 ||vitqzd.icu^
 ||vizacasa.xyz^
+||vizgrt.icu^
 ||vjie.com^$third-party
 ||vjml.cn^
 ||vjpdxx.icu^
@@ -30238,6 +30246,7 @@ zzzyk.com###Tinfo
 ||vlpq.cn^
 ||vlujojf.icu^
 ||vm.aty.sohu.com^
+||vm5xs8nvqh.com^
 ||vmbzhfh.cn^
 ||vmcnl.xyz^
 ||vmdlxj.xyz^
@@ -30405,6 +30414,7 @@ zzzyk.com###Tinfo
 ||w41.i7x3.fun^
 ||w4sn20zpvz.com^
 ||w51t.com^$subdocument
+||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
@@ -31604,6 +31614,7 @@ zzzyk.com###Tinfo
 ||yl04z4v.cn^
 ||ylghac.icu^
 ||ylznwl.cn^
+||ym3jmnu05.com^
 ||ymapiatm.xyz^
 ||ymdxl.com^
 ||ymgbwkw.icu^
