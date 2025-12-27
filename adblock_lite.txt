@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2025-12-26 20:50:24(GMT+8) 
-! Total count: 32406
+! ! Version: 2025-12-27 09:55:23(GMT+8) 
+! Total count: 32418
  
 ###ADtip
 ###Ad_windows
@@ -13996,6 +13996,9 @@ supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
 supertaste.tvbs.com.tw##.ad_m_block
 supertaste.tvbs.com.tw##.ad_m_top
+supertaste.tvbs.com.tw##div[id^="taboola-"]
+supertaste.tvbs.com.tw#?#.article_detail > div.cotxt_title:has(> p:contains(/延伸閱讀|你可能會喜歡|大家都在看/))
+supertaste.tvbs.com.tw#?#.sidebar > span:contains(人氣點閱榜)
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
 surirt.com#%#//scriptlet('set-constant', 'ad_id_for_555', '')
 surirt.com#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
@@ -14730,6 +14733,8 @@ vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuetifyjs.com##.v-sponsors
 vx666.com##.async[href^="http"]
 vxetable.cn#%#//scriptlet('abort-current-inline-script', 'decodeURIComponent', 'pagead')
+w.waipian.sbs##.popup-tips
+w.waipian.sbs##.shortcuts-mobile-overlay
 w3cschool.cn##.abox-content
 w3cschool.cn##.abox-item
 w3cschool.cn##.widget-main
@@ -19296,6 +19301,8 @@ zzzyk.com###Tinfo
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
 ||byvlph.xyz^
+||bz*.com/js/cdn.js
+||bz*.com/js/html*.js$~third-party,script
 ||bz*.net/js/cdn.js
 ||bz*.net/js/html*.js$~third-party,script
 ||bz13t74nt.com^
@@ -21375,6 +21382,7 @@ zzzyk.com###Tinfo
 ||f23jjd8.xyz^
 ||f2dsex1.com/public/fb*.png
 ||f3k194f9i7.com^
+||f4h123m89w.com^
 ||f53a.com^
 ||f6jd4k4xgo.com^
 ||f77j6t2b.com^
@@ -21717,6 +21725,7 @@ zzzyk.com###Tinfo
 ||frrhdl.xyz^
 ||frsejhged.xyz^
 ||frthpp.icu^
+||frzlftr9y.com^
 ||fsclzs.com/Ad_User/
 ||fsgsfaf6.com^
 ||fsjfnp.top^
@@ -23296,6 +23305,7 @@ zzzyk.com###Tinfo
 ||ikjwmfeds.xyz^
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^
+||iklparx8i.com^
 ||iknwqdpo.xyz^
 ||ikronzealu.com^
 ||ikstatic.cn^*.gif
@@ -32176,6 +32186,7 @@ zzzyk.com###Tinfo
 ||ziweuu.com^
 ||ziyuanm.com/js/g11.js
 ||zj-yxw.com^
+||zj7coeb5i.com^
 ||zj9puq8ycu.com^
 ||zjen.cn^
 ||zjg.js.cn/Public/config/Couplet/Index4
@@ -32211,6 +32222,7 @@ zzzyk.com###Tinfo
 ||zlyk.com^*/ysapp.
 ||zlzgfj.icu^
 ||zmdjbl.xyz^
+||zmdttx.icu^
 ||zmhqhuq.cn^
 ||zmk.pw/zfb.png
 ||zmkp6jvq4.com^
