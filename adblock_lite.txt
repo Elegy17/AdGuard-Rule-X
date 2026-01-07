@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-06 20:53:19(GMT+8) 
-! Total count: 32626
+! ! Version: 2026-01-07 10:00:17(GMT+8) 
+! Total count: 32640
  
 ###ADtip
 ###Ad_windows
@@ -16157,6 +16157,7 @@ zzzyk.com###Tinfo
 ||1fxs.com^$third-party
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
+||1hmklj60i.com^
 ||1iuh5l.com^
 ||1iuybpo.com^
 ||1jc5t.xyz^
@@ -17928,6 +17929,7 @@ zzzyk.com###Tinfo
 ||ainb01051zh.com^
 ||ainb01060zh.com^
 ||ainb01061zh.com^
+||ainb01070zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -19317,6 +19319,7 @@ zzzyk.com###Tinfo
 ||budgetea.top^
 ||budl.cn^
 ||bugly.qq.com^
+||bugs01070ko.com^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
 ||bulisite.top^
@@ -19702,6 +19705,8 @@ zzzyk.com###Tinfo
 ||cgcg01050ht.com^
 ||cgcg01051ht.com^
 ||cgcg01060ht.com^
+||cgcg01061ht.com^
+||cgcg01070ht.com^
 ||cgdyw.net/xx/
 ||cgigc.com.cn^
 ||cgmalight.com^
@@ -21282,6 +21287,7 @@ zzzyk.com###Tinfo
 ||elecfans.com/skin-*ad_
 ||elecfans.com/static/home_ad/
 ||elecfans.com/webapi/advertisement/
+||electrode28.com^
 ||electronic23.com^
 ||elegant-creator.com^
 ||eletys.icu^
@@ -26485,6 +26491,7 @@ zzzyk.com###Tinfo
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
 ||o3t.icu^
+||o40d17vln.com^
 ||o4q.fun^
 ||o6oxvugdl.com^
 ||o8s.icu^
@@ -26706,6 +26713,7 @@ zzzyk.com###Tinfo
 ||oqyiapj.cn^
 ||orange-dc.youku.com^
 ||orangevd.top^
+||oratorio77.com^
 ||orbit.jd.com^
 ||orbk.cn^
 ||orchidea46.com^
@@ -27140,6 +27148,7 @@ zzzyk.com###Tinfo
 ||pjtime.com/js/show_ad
 ||pjwk.cn^
 ||pjy55d.com^
+||pkhottoqai.com^
 ||pki.net.cn/public/1/plugins
 ||pkjl00l.cn^
 ||pkjmmn.icu^
@@ -27210,6 +27219,7 @@ zzzyk.com###Tinfo
 ||porn87.com/static/stream_ads/
 ||porncomix.info/images/an-temp/$stylesheet,script
 ||pornoshara.tv/template/branding/swf/
+||porqbb.icu^
 ||pos.baidu.com^
 ||position66.top^
 ||poster.weather.com.cn^
@@ -29637,6 +29647,7 @@ zzzyk.com###Tinfo
 ||trfmxf.xyz^
 ||tridroin.com^
 ||trigminp.com^
+||tringrod.com^
 ||tristaspd.com^
 ||trjfoagf.icu^
 ||trk.pinterest.com^
@@ -30624,6 +30635,7 @@ zzzyk.com###Tinfo
 ||w4sn20zpvz.com^
 ||w505cb.cc^
 ||w51t.com^$subdocument
+||w537a7.cc^
 ||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
@@ -30903,6 +30915,7 @@ zzzyk.com###Tinfo
 ||wravorzt.com^
 ||wres.cn^
 ||wrestle22.top^
+||wrlhhgeyh.com^
 ||wrpsouf.cn^
 ||wrth.cn^
 ||ws-keyboard.shouji.sogou.com^
@@ -32017,6 +32030,7 @@ zzzyk.com###Tinfo
 ||yw800.com.cn^
 ||ywakoc.icu^
 ||ywkkmze.cn^
+||ywnrqpd.xyz^
 ||ywsywh.cn^
 ||ywtd.xyz^
 ||yx1.managershare.com^
