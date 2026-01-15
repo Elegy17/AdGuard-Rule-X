@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-14 20:55:52(GMT+8) 
-! Total count: 32440
+! ! Version: 2026-01-15 10:00:21(GMT+8) 
+! Total count: 32447
  
 ###ADtip
 ###Ad_windows
@@ -16504,6 +16504,7 @@ zzzyk.com###Tinfo
 ||3wk.cc/images/*.gif
 ||3x5h6x434.com^
 ||3x8zapzon.com^
+||3xeo00tqz.com^
 ||3yej.xyz^
 ||3yq51wjim.com^
 ||3yx95kv3at.com^
@@ -19294,6 +19295,7 @@ zzzyk.com###Tinfo
 ||bugs01131ko.com^
 ||bugs01140ko.com^
 ||bugs01141ko.com^
+||bugs01150ko.com^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
 ||bulisite.top^
@@ -20420,6 +20422,7 @@ zzzyk.com###Tinfo
 ||dbmp4.com/js/foot.js
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
+||dbraulmat.com^
 ||dbraxb.icu^
 ||dbt6ga5v6d15f.cloudfront.net/slf^$domain=vikacg.com
 ||dbvo.cn^
@@ -21424,6 +21427,7 @@ zzzyk.com###Tinfo
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
 ||ezraahdn.icu^
+||eztravude.com^
 ||ezu6rd5.houge.in^
 ||ezzwechiiewt.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
@@ -23875,6 +23879,7 @@ zzzyk.com###Tinfo
 ||jgapcsi.icu^
 ||jghklz.xyz^
 ||jgid.cn^
+||jgpo1zqhj.com^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
 ||jguhqbe.top^
@@ -28602,6 +28607,7 @@ zzzyk.com###Tinfo
 ||sojson.com/ps/list.
 ||sojson.com/ui/images/upyun
 ||solaron.top^
+||solitaire47.com^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somewhate.club^
@@ -29780,6 +29786,7 @@ zzzyk.com###Tinfo
 ||ufeuca.icu^
 ||ufgg55.xyz^
 ||ufgl.cn^
+||ufihgd3ck.com^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
 ||ufile.cc^
