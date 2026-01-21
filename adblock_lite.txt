@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List Lite 
 ! Expires: 12h (update frequency)
 ! Description: AdRules AdBlock List's Lite Version, And Remove Some Filters
-! ! Version: 2026-01-20 20:58:37(GMT+8) 
-! Total count: 32551
+! ! Version: 2026-01-21 10:04:51(GMT+8) 
+! Total count: 32559
  
 ###ADtip
 ###Ad_windows
@@ -16835,6 +16835,7 @@ zzzyk.com###Tinfo
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
 ||5yqi3kg1g.com^
+||5zxkdat6t8.com^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||600g3yf2p.com^
@@ -19325,6 +19326,7 @@ zzzyk.com###Tinfo
 ||bugs01191ko.com^
 ||bugs01200ko.com^
 ||bugs01201ko.com^
+||bugs01210ko.com^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
 ||bulisite.top^
@@ -21243,6 +21245,7 @@ zzzyk.com###Tinfo
 ||ehfjup.xyz^
 ||ehk.trenhdg.com^
 ||ehox67pahs.com^
+||ehvkaakviw.com^
 ||ei7buknu82.com^
 ||eiadf.xyz^
 ||eic.org.cn/api/Popup?
@@ -24358,10 +24361,12 @@ zzzyk.com###Tinfo
 ||k7f67a6s7.xyz^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k90ey77nx.com^
 ||k99.cc^$third-party
 ||k9w4m.xyz^
 ||kacq.cn^
 ||kagdf.com^
+||kagxyvk.com^
 ||kahgjjd.com^
 ||kai5741.xyz^
 ||kaiguangdou.com^
@@ -24502,6 +24507,7 @@ zzzyk.com###Tinfo
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kiwihk.net^$third-party
 ||kizu.org/adv-$popup
+||kj4gddo30.com^
 ||kjanfwss.xyz^
 ||kje9v2ic57.com^
 ||kjggk1.xyz^
@@ -31316,6 +31322,7 @@ zzzyk.com###Tinfo
 ||xmbfrn.icu^
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||xmcimg.com/js/m.js
+||xmgi1tqka.com^
 ||xmjajv.xyz^
 ||xmkbrfyu.cn^
 ||xmlsxar.cn^
@@ -32013,6 +32020,7 @@ zzzyk.com###Tinfo
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
+||z2ubj8bpk.com^
 ||z3yfkdjd.icu^
 ||z4a.net/images/*/960-60.
 ||z4a.net^$domain=9xav.cc
