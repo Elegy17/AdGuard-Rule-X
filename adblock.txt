@@ -2,8 +2,8 @@
 ! Title: AdRules AdBlock List
 ! Expires: 12h (update frequency)
 ! Description: Merge from EasyList,EasyListChina etc. and Add Some Rules.
-! ! Version: 2026-02-07 20:57:37(GMT+8) 
-! Total count: 198277
+! ! Version: 2026-02-08 20:59:05(GMT+8) 
+! Total count: 198305
  
 ###ADtip
 ###Ad_windows
@@ -3717,6 +3717,7 @@ $websocket,domain=wap.yushuwu.cloud
 /bcn.gif?
 /bcommon/js/trckUtil.min.js$domain=buffed.de|gamesaktuell.de|videogameszone.de|gamezone.de|pcgames.de|pcgameshardware.de
 /bcsensor.js
+/bcwc.analytic.js?
 /bdg.gif?
 /beacon.cgi?
 /beacon.gif?
@@ -3887,6 +3888,7 @@ $websocket,domain=wap.yushuwu.cloud
 /cdn/qualtrics.js$domain=fredmeyer.com|frysfood.com|smithsfoodanddrug.com|ralphs.com
 /cdn/s/trekkie.storefront.*.min.js
 /cdn/shopifycloud/consent-tracking-api/*
+/cdn/wpm/b3918e4e0wbf3ac3cepc5707306mb02b36c6m.js
 /cdn_cookie_service.html
 /ce_l.aspx?showid=$third-party
 /cedexis.js
@@ -4421,6 +4423,7 @@ $websocket,domain=wap.yushuwu.cloud
 /fbpix-events-
 /fbpixel.js
 /fdjdjghrut_tt.js
+/fdmg-tag-manager/tags.js
 /fe_logger?
 /feature/metrics$xmlhttprequest
 /federated-analytics.all.min.js
@@ -6483,6 +6486,7 @@ $websocket,domain=wap.yushuwu.cloud
 /svr/*.aspx?placeid=$third-party
 /svr/popwin.aspx?$third-party
 /svs.gif?
+/sw.js?origin=
 /sw/analytics.js
 /swa_t.gif?
 /swatag.js
@@ -10245,6 +10249,7 @@ $websocket,domain=wap.yushuwu.cloud
 ://signals.*/hardal
 ://sp.*/sp/h|$xmlhttprequest
 ://ss.*.js?st=
+://ssgtm.
 ://sst.*.js?id=GTM-
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
@@ -74543,6 +74548,7 @@ tropica.cn##.wp1.a_t
 trovesaurus.com###blocked
 tsdm.live###ts_sidebar_base
 tsdm39.com###ct > div > a[target="_blank"] > img
+tstrs.me#%#//scriptlet('prevent-setTimeout', 'offsetHeight === 0')
 tsubasa.im#%#//scriptlet('prevent-setInterval', '/home/?adblock=')
 tsubasa.im#%#//scriptlet('prevent-setTimeout', '/home/?adblock=')
 tsviewer.com#@#.adsbygoogle
@@ -79321,6 +79327,7 @@ zzzyk.com###Tinfo
 ||3587285621425460184.academyofconsciousleadership.net^
 ||35kjurwwb6.com^
 ||35vc.com^
+||35wo96wkjs.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
 ||360.cn/festival_zone.html
 ||360.cn/index/showjokes?callback=
@@ -83139,6 +83146,7 @@ zzzyk.com###Tinfo
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a613.redbluffdailynews.com^
 ||a6cfvavw1.xyz^
+||a6o69f9ky0.com^
 ||a7e.monnierfreres.de^
 ||a7wiuh3she.com^
 ||a8-22.hana-yume.net^
@@ -92994,6 +93002,7 @@ zzzyk.com###Tinfo
 ||assets.sidroga.de^
 ||assets.sky.com/js/thirdparty/sessioncam5-5.js
 ||assets.spectrumhealthlakeland.org^
+||assets.targetimg1.com/ssx/ssx.mod.js$domain=target.com
 ||assets.telefonanlage-shop.de^
 ||assets.thdstatic.com/analytics/core/*/appMeasure$domain=homedepot.com
 ||assets.trendii.com/pixel/main.js
@@ -98788,6 +98797,7 @@ zzzyk.com###Tinfo
 ||chat.compassshield.com^
 ||chat.deepseek.com/api/v0/events
 ||chat.forddirectdealers.com^
+||chat.groq.com/global_stats
 ||chat.themvptoeic.com^
 ||chata.quickcep.com/im/behavior/visitor/update
 ||chatfuel.com/cf-analytics/
@@ -115104,6 +115114,7 @@ zzzyk.com###Tinfo
 ||freychang.fun^
 ||freyr.futurecdn.net/freyr.js
 ||frfge.bonobos.com^
+||frhi5v6ez1.com^
 ||frhopo.cn^
 ||frhqq.xeroshoes.com^
 ||fridaymarketing.actonservice.com^
@@ -116985,6 +116996,8 @@ zzzyk.com###Tinfo
 ||gnla02061qp.com^
 ||gnla02070qp.com^
 ||gnla02071qp.com^
+||gnla02080qp.com^
+||gnla02081qp.com^
 ||gnnes.mintrx.com^
 ||gnnkrz.josbank.com^
 ||gnozmx.locasun.fr^
@@ -117026,6 +117039,7 @@ zzzyk.com###Tinfo
 ||go.4sq.com^
 ||go.abcam.com^
 ||go.abqisotopes.com^
+||go.absolventa.de^
 ||go.accredible.com^
 ||go.accumaxglobal.com.au^
 ||go.acelisconnectedhealth.com^
@@ -117069,6 +117083,7 @@ zzzyk.com###Tinfo
 ||go.azets.fi^
 ||go.azets.no^
 ||go.azets.se^
+||go.azubi.de^
 ||go.backtest.io^
 ||go.bandits.com^
 ||go.batsbaseball.com^
@@ -123967,6 +123982,7 @@ zzzyk.com###Tinfo
 ||i3j6h7j9cj.com^
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
+||i4320rdrta.com^
 ||i5ixiwch2f.themakersmob.com^
 ||i5q1t8vj9.com^
 ||i5qquywfz.com^
@@ -142985,6 +143001,7 @@ zzzyk.com###Tinfo
 ||metricsvtex.oficinareserva.com^
 ||metricswave.com^$third-party
 ||metricus.artlebedev.ru^
+||metrik.freitag.de^
 ||metrika-informer.com^$third-party
 ||metrika.kontur.ru^
 ||metrika.lookmovie2.to^
@@ -144883,6 +144900,7 @@ zzzyk.com###Tinfo
 ||myhome.nifty.com/smp/js/trackPageview.js
 ||myhome.usg.com^
 ||myhotelbook.pegs.com^
+||myieldell.com^
 ||myinfo.borland.com^
 ||myinfo.eaton.com^
 ||mykch.top^
@@ -146136,6 +146154,7 @@ zzzyk.com###Tinfo
 ||nlytcs.idfnet.net^
 ||nlyuuy.cn^
 ||nlzyp.cn^
+||nm68kgmnf1.com^
 ||nm6c33x8a.com^
 ||nmbhu.thepearlsource.com^
 ||nmc.cn/npt/track/stat.js
@@ -146573,6 +146592,7 @@ zzzyk.com###Tinfo
 ||nstltp.icu^
 ||nstp.notesik.com.br^
 ||nstracking.com^$third-party
+||nsul.cn^
 ||nsuvv.thesummithound.com^
 ||nsvohb.top^
 ||nswtojdi.icu^
@@ -149558,6 +149578,7 @@ zzzyk.com###Tinfo
 ||partnerwith.us.streetbond.com^
 ||partnerzy.styrcon.pl^
 ||partplanes.com^
+||partsgeek.com/sspgt/
 ||party-vqgdyvoycc.now.sh^$third-party
 ||party.beyond-memories.com^
 ||party.oewheelsllc.com^
@@ -158337,6 +158358,7 @@ zzzyk.com###Tinfo
 ||sedgwickpooling.sedgwick.com^
 ||sedotracker.com^$third-party
 ||sedotracker.de^$third-party
+||seductive37.top^
 ||see.wasteorshare.com^
 ||see.yousoon.com^
 ||seectech.cn/scm/ad/list
@@ -171171,6 +171193,7 @@ zzzyk.com###Tinfo
 ||sst.carousel.be^
 ||sst.carpenterofnature.com^
 ||sst.carrefour.tn^
+||sst.carwow.
 ||sst.carwow.co.uk^
 ||sst.carwow.de^
 ||sst.carwow.es^
@@ -190696,6 +190719,7 @@ zzzyk.com###Tinfo
 ||vcxtkb.myomee.com^
 ||vcydyzd.icu^
 ||vcypfn.readers.com^
+||vcz9kuhac.com^
 ||vd-test.net.anwalt.de^
 ||vdangi.topshelfgolf.com^
 ||vdc.zoomph.com^
@@ -191991,6 +192015,7 @@ zzzyk.com###Tinfo
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^
+||w58547.com^
 ||w58ce6.cc^
 ||w58ce6.com^
 ||w592be.cc^
@@ -197031,6 +197056,7 @@ zzzyk.com###Tinfo
 ||yy17173.dtime.com^
 ||yy18.info/yyads/
 ||yy18.info^*thanks$popup
+||yy19xdgtud.com^
 ||yy1veaxhf.com^
 ||yy3hws3gm1.popularitybazaar.com^
 ||yy4480qpgyy.com^
@@ -197510,6 +197536,7 @@ zzzyk.com###Tinfo
 ||zfvltd.xyz^
 ||zfxakx.xyz^
 ||zg.mmyuer.com^
+||zgb6rg0r3h.com^
 ||zgdshoes.com^
 ||zgfilz.propertyfinder.eg^
 ||zgfshoes.com^
@@ -198049,6 +198076,7 @@ zzzyk.com###Tinfo
 ||ztgblo.vidaxl.lt^
 ||ztgmk.iamimber.com^
 ||zthti.solidandstriped.com^
+||zthuhludil.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztjsi.millieloveslily.com^
 ||ztm.zestdent.com^
