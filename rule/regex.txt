@@ -1,4 +1,4 @@
-# Update time: 2026-05-20 12:00:25
+# Update time: 2026-05-20 23:32:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -91,6 +91,7 @@
 ||reachableads-av.*.amazonaws.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||bdcpro*.techweb.com.cn^
+||inccrev*.static-cloudflare.workers.dev^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||ads*.dfiles.eu^
 ||pijama.*.elasticbeanstalk.com^
