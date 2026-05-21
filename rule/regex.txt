@@ -1,4 +1,4 @@
-# Update time: 2026-05-21 12:09:40
+# Update time: 2026-05-21 23:37:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,7 +47,6 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-||increase-rev*.static-cloudflare.workers.dev^
 ||collector-*.luigisbox.com^
 ||res*.pinpai8.cn^
 ||v*-be-pack.pglstatp-toutiao.com^
@@ -56,7 +55,6 @@
 ||hn-ping*.hashnode.com^
 ||dn*.ixinwei.com^
 ||mcdp-*.outbrain.com^
-||increv*.static-cloudflare.workers.dev^
 ||counter*.stat.ovh^
 ||ad*.on.cc^
 ||ads*.dfiles.ru^
@@ -68,7 +66,6 @@
 ||hostingcloud.*.wasm^
 ||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
-||increase*-rev.static-cloudflare.workers.dev^
 ||tw-726620180914.*.run.app^
 ||adi*.cnool.net^
 ||ads*.depositfiles.com^
@@ -87,11 +84,9 @@
 ||hbbtv.*.de^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||increase*rev.static-cloudflare.workers.dev^
 ||reachableads-av.*.amazonaws.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||bdcpro*.techweb.com.cn^
-||inccrev*.static-cloudflare.workers.dev^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||ads*.dfiles.eu^
 ||pijama.*.elasticbeanstalk.com^
@@ -105,7 +100,6 @@
 ||bdlm*.hc360.com^
 ||ac*.786ip.com^
 ||s*-fe-scm.pglstatp-toutiao.com^
-||inc*-rev.static-cloudflare.workers.dev^
 ||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||ya*.dwstatic.com^
