@@ -1,4 +1,4 @@
-# Update time: 2026-08-21 09:36:31
+# Update time: 2026-08-21 20:55:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1136,11 +1136,6 @@
 ||adnetstatic.*^$importanthttps://doh.pub/dns-query https://223.6.6.6/dns-query https://1.12.12.12/dns-query https://dns.yesdns.net/dns-query
 ||gahhs029.top^$importanthttps://doh.pub/dns-query https://223.6.6.6/dns-query https://1.12.12.12/dns-query https://dns.yesdns.net/dns-query
 ||tongji-resl.meizu.com^$importanthttps://doh.pub/dns-query https://223.6.6.6/dns-query https://1.12.12.12/dns-query https://dns.yesdns.net/dns-query
-*-ad.video.yximgs.com*
-*-ad.sm.cn*
-*-be-pack-sign.pglstatp-toutiao.com*
-*-normal.zijieapi.com*
-*-ad.wtzw.com*
 ||dev.to^*/billboards/post_body_bottom^
 ||winpbn.com/redirect/^
 ||nude-gals.com/striptools^
