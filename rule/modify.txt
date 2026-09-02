@@ -1,4 +1,4 @@
-# Update time: 2026-09-02 11:46:51
+# Update time: 2026-09-03 00:17:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1235,6 +1235,7 @@
 ||namethatporn.com/assets/dev_popscript.js^
 ||truthsocial.com^*/ads^
 ||anyelse.com/stat^
+||files.maplescouter.com/next/ads^
 ||faceitstats.com/images/banners^
 ||wuxiaworld.com/images/pw^
 ||nude-gals.com/images^
