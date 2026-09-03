@@ -1,4 +1,4 @@
-# Update time: 2026-09-03 11:46:36
+# Update time: 2026-09-04 00:07:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -32348,7 +32348,6 @@
 ||tmi.vodafone.de^
 ||mqhaxf.keds.com^
 ||fingerprintjs.com^
-||qobuz.surveysparrow.com^
 ||sctcaser.cyou^
 ||ubpekn.sivillage.com^
 ||yftqgqghetlts.online^
@@ -64410,7 +64409,6 @@
 ||ttoc8ok.com^
 ||frontthirteencuff.com^
 ||removedrehabilitation.com^
-||laichegloavy.com^
 ||engagementlawfully.com^
 ||smarttopchain.nl^
 ||3da400e3ed.1f2c6ca393.com^
@@ -87404,7 +87402,6 @@
 ||iguana.cypressridge-pca.org^
 ||smetrics.gobank.com^
 ||stats.totalav.com^
-||ads.tripod.lycos.es^
 ||tr.urfk05l.espmp-nifr.net^
 ||2493may2024.com^
 ||gjzpwnuifk.com^
@@ -97704,7 +97701,6 @@
 ||a44251.actonservice.com^
 ||serv1for.pro^
 ||aksvougxccpvg.online^
-||clientinfo.phimmoizz.net^
 ||forecast.lemonde.fr^
 ||meatytalk.pro^
 ||teatimealcyonevisited.qpon^
@@ -102554,6 +102550,7 @@
 ||cdn.mwrgi.com^
 ||www.3352256.notify6.com^
 ||uafgpkpvpac.com^
+||bbs.xhamster.com^
 ||links.e.history.com^
 ||fpb1.apple886.com^
 ||upc.zztfly.com^
