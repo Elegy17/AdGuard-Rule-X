@@ -1,4 +1,4 @@
-# Update time: 2026-09-16 12:07:58
+# Update time: 2026-09-17 00:30:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1275,6 +1275,7 @@
 ||static.winporn.com/upload/banners^
 ||flashondemand.top-ix.org/video-omg/vvvvid^
 ||mercadolibre.com/tracks^
+||iplayer.is/adm.js^
 ||a.o333o.com/api/spots^
 ||dev.to^*/bb/post_comments^
 ||fcw45.com/js/layer1.js^
